@@ -1,1 +1,1 @@
-Modified the register and login forms to include css styling and added the navigation bar, hero content and home page 
+Included overall CSS styling for the register and login forms, and added the navigation bar, hero section, and homepage content
