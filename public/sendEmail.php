@@ -10,7 +10,7 @@ $email = $_POST['email'] ?? '';
 
 $mailContent = [
     'name_from' => 'StudyHub',
-    'mail_from' => 'sheel2002lee@gmail.com',  
+    'mail_from' => 'YOUR_EMAIL_HERE',  
     'name_to'   => $name,                   
     'mail_to'   => $email,                    
     'subject'   => 'Welcome to StudyHub',
@@ -22,8 +22,8 @@ $mailContent = [
 
 $conf = [
     'smtp_host'   => 'smtp.gmail.com',
-    'smtp_user'   => 'sheel2002lee@gmail.com',
-    'smtp_pass'   => '',      
+    'smtp_user'   => 'YOUR_EMAIL_HERE,
+    'smtp_pass'   => 'YOUR_PASSWORD_HERE',      
     'smtp_secure' => PHPMailer::ENCRYPTION_STARTTLS,
     'smtp_port'   => 587
 ];
