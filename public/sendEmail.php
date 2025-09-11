@@ -6,7 +6,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 $mailService = new MailService();
 
 $name  = $_POST['name'] ?? ''; 
-$email = $_POST['email'] ?? 'sheel.chudasama@strathmore.edu';
+$email = $_POST['email'] ?? '';
 
 $mailContent = [
     'name_from' => 'StudyHub',
