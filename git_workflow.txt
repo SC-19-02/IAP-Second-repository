@@ -1,0 +1,8 @@
+6e8d7b7 - Sheel Chudasama, 25 hours ago : Update sendEmail.php
+7530206 - Sheel Chudasama, 25 hours ago : Update config.php
+c1470ba - Sheel Chudasama, 25 hours ago : Update sendEmail.php
+9d58027 - Sheel Chudasama, 2 days ago : Update README.md
+dce0ec6 - Shchuda, 2 days ago : Initial commit
+e8e60e5 - Sheel Chudasama, 2 days ago : Update README.md
+d59c2ad - Sheel Chudasama, 2 days ago : Update README.md
+af342e4 - Sheel Chudasama, 2 days ago : Initial commit
